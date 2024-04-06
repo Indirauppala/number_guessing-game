@@ -1,0 +1,14 @@
+.game-container{
+    background-color: rgb(205, 103, 200);
+    height: 300px;
+    width:500px;
+    text-align: center;
+    justify-content: center;
+
+}
+.container{
+    margin: 225px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
